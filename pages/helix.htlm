@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Helix Carbon · Roxana Arnet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<div class="wrap">
+<header class="sub">
+  <a class="back" href="../index.html">← Roxana Arnet</a>
+  <h1>Helix Carbon</h1>
+  <div class="meta">Intern · The Engine at MIT</div>
+  <p>Helix Carbon is a cleantech startup building electrochemical systems that convert CO₂ into syngas, a mix of CO and H₂ that feeds into fuels and chemicals. I worked on CO₂ electroreduction experiments and the literature behind them.</p>
+</header>
+
+<section aria-label="Photos">
+  <h2>Photos</h2>
+  <!--
+    To add a photo, put the file in images/helix/ and replace one tile below with:
+    <figure><img src="../images/helix/01.jpg" alt="Describe the photo"><figcaption>Optional caption</figcaption></figure>
+    Delete tiles you do not need and copy a line to add more.
+  -->
+  <div class="gallery">
+    <figure><img src="../images/helix/Helix01.jpg" alt="What the photo shows"></figure>
+    <figure class="photo"><span>Photo 2<br>images/helix/02.jpg</span></figure>
+    <figure class="photo"><span>Photo 3<br>images/helix/03.jpg</span></figure>
+    <figure class="photo"><span>Photo 4<br>images/helix/04.jpg</span></figure>
+    <figure class="photo"><span>Photo 5<br>images/helix/05.jpg</span></figure>
+    <figure class="photo"><span>Photo 6<br>images/helix/06.jpg</span></figure>
+  </div>
+</section>
+
+<nav class="pn" aria-label="Other pages"><a class="right" href="nth-cycle.html">Nth Cycle →</a></nav>
+
+<footer>
+  <span>© 2026 Roxana Arnet</span>
+  <a href="../index.html">Home</a>
+</footer>
+</div>
+</body>
+</html>
