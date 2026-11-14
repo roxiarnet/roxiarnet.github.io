@@ -102,5 +102,8 @@ header.sub { gap: 10px; }
   object-fit: contain;
   object-position: center;
 }
+.page-helix .gallery figcaption {
+  text-align: center;
+}
 
 footer { color: var(--muted); font-size: 14px; display: flex; gap: 8px 14px; flex-wrap: wrap; border-top: 1px solid var(--line); padding-top: 20px; }
