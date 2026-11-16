@@ -146,15 +146,9 @@ header.sub { gap: 10px; }
 .page-mcgill-nordic .gallery img {
   display: block;
   width: 100%;
-  height: 270px;
+  height: 320px;
   object-fit: contain;
   object-position: center;
-}
-.page-mcgill-nordic .gallery figcaption {
-  margin-top: 6px;
-  text-align: center;
-  font-size: 13px;
-  color: var(--muted);
 }
 @media (max-width: 520px) {
   .page-mcgill-nordic .gallery {
